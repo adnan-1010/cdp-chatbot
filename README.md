@@ -11,7 +11,7 @@ Welcome to the **CDP Support Chatbot**! 🎉 This project is designed to assist 
 
 - Python 3.10 
 - Virtual environment (recommended)
-
+- numpy 1.23.0
 ## 🚀 Installation
 
 1. Clone the repository:
