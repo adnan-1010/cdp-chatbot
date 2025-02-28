@@ -9,7 +9,7 @@ Welcome to the **CDP Support Chatbot**! 🎉 This project is designed to assist 
 
 ## 📋 Requirements
 
-- Python 3.10 or higher
+- Python 3.10 
 - Virtual environment (recommended)
 
 ## 🚀 Installation
